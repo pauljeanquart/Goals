@@ -1,6 +1,6 @@
 # Green Family Books
 
-These are books by David Green, who founded Hobby Lobby, and his son Steve Green, Hobby Lobby's president.
+These are books by David Green, who founded Hobby Lobby, and his sons Steve Green and Mart Green.
 
 ## David Green
 
@@ -27,6 +27,16 @@ Steve Green, David's son, has been president of Hobby Lobby since 2004. He is al
 | 3 | *This Dangerous Book: How the Bible Has Shaped Our World and Why It Matters Today* | 2017 | With his wife, Jackie Green (Zondervan) |
 | 4 | *This Beautiful Book* | 2019 | |
 
+## Mart Green
+
+Mart Green, David's son, founded Mardel Christian & Education and is Hobby Lobby's Ministry Investment Officer.
+
+| # | Title | Year | Notes |
+|---|-------|------|-------|
+| 1 | *Quiet Reflections in a Busy World* | 1992 | Listed under Mart Green on Open Library; not confirmed to be the same author |
+| 2 | *Extraordinary Hearing: Preparing Your Soul to Hear from God* | 2023 | With Greg Pruett |
+| 3 | *Learning to Be Loved: The Everyday Believer's Guide to a Rich Relationship with God* | 2024 | With David Bowden |
+
 ## Reading checklist
 
 - [ ] More Than a Hobby (David)
@@ -40,5 +50,7 @@ Steve Green, David's son, has been president of Hobby Lobby since 2004. He is al
 - [ ] The Bible in America (Steve)
 - [ ] This Dangerous Book (Steve and Jackie)
 - [ ] This Beautiful Book (Steve)
+- [ ] Extraordinary Hearing (Mart)
+- [ ] Learning to Be Loved (Mart)
 
-*Sources: [Hobby Lobby Newsroom](https://newsroom.hobbylobby.com/executive-team/david-green/), [Legacy Stone](https://legacystone.com/legacylife), [Museum of the Bible leadership](https://www.museumofthebible.org/leadership), [Horatio Alger Association](https://horatioalger.org/members/detail/steven-todd-green/), and library and audiobook catalogs.*
+*Sources: [Hobby Lobby Newsroom](https://newsroom.hobbylobby.com/executive-team/david-green/), [Legacy Stone](https://legacystone.com/legacylife), [Museum of the Bible leadership](https://www.museumofthebible.org/leadership), [Horatio Alger Association](https://horatioalger.org/members/detail/steven-todd-green/), [Mart Green](https://martgreen.com/), [Open Library](https://openlibrary.org/authors/OL11366828A/Mart_Green), and library and audiobook catalogs.*
